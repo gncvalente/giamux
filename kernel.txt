@@ -6,4 +6,6 @@
 
 # load dei drivers
 
+# check vari
+
 # FINE
