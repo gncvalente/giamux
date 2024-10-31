@@ -1,0 +1,7 @@
+# Ecco il file che contiene il kernel del mio SO
+
+# check del sistema
+
+# init
+
+
