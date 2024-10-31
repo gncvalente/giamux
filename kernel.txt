@@ -2,6 +2,8 @@
 
 # check del sistema
 
-# init
+# init sequenza iniziale
 
+# load dei drivers
 
+# FINE
